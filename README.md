@@ -6,4 +6,4 @@ Projeto com o desafio de reconstruir a página inicial de login do Instagram uti
 Site: https://www.digitalinnovation.one/
 Instrutora: [Gabriela Pinheiro](https://github.com/SpruceGabriela)
 
-Tecnologia utilizadas: Html5 e css.
+Tecnologia utilizada: Html5 e css.
