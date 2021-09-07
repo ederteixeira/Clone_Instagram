@@ -1,14 +1,21 @@
-# Recriando a página inicial do instagram
+# Página inicial do instagram
+
 Entrega do projeto "Recriando a página inicial do Instagram" da DIO.
 
-Projeto com o desafio de reconstruir a página inicial de login do Instagram utilizando o conceito sobre CSS e Flexbox.
-> Link: [Projeto](https://ederteixeira.github.io/Clone_Instagram/).
+![cloneinsta](https://user-images.githubusercontent.com/48259330/132403612-22b85c58-bdcb-4e8e-981e-3c212458f0fb.png)
 
-> Site: [Digital Innovation One](https://www.digitalinnovation.one/).
+## Descrição: 
+
+Projeto com o desafio de reconstruir a página inicial de login do Instagram.
+- Link: [Projeto](https://ederteixeira.github.io/Clone_Instagram/).
+
+- Site: [Digital Innovation One](https://www.digitalinnovation.one/).
 
 Instrutora: Gabriela Pinheiro
-> github [Gabriela Pinheiro](https://github.com/SpruceGabriela)
+- github: [Gabriela Pinheiro](https://github.com/SpruceGabriela)
 
 Tecnologias utilizadas: 
 
-**Html5 e css.**
+- Html5
+- CSS 
+
