@@ -6,15 +6,15 @@ Entrega do projeto "Recriando a página inicial do Instagram" da DIO.
 
 ## Descrição: 
 
-Projeto com o desafio de reconstruir a página inicial de login do Instagram.
+#### Projeto com o desafio de reconstruir a página inicial de login do Instagram.
 - Link: [Projeto](https://ederteixeira.github.io/Clone_Instagram/).
 
 - Site: [Digital Innovation One](https://www.digitalinnovation.one/).
 
-Instrutora: Gabriela Pinheiro
+#### Instrutora: Gabriela Pinheiro
 - github: [Gabriela Pinheiro](https://github.com/SpruceGabriela)
 
-Tecnologias utilizadas: 
+#### Tecnologias utilizadas: 
 
 - Html5
 - CSS 
