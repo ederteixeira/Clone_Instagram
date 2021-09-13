@@ -1,4 +1,4 @@
-# Página inicial do instagram
+# Recriando a página inicial do instagram
 
 Entrega do projeto "Recriando a página inicial do Instagram" da DIO.
 
